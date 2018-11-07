@@ -485,5 +485,5 @@ VelocityTransitionGroup.defaultProps = {
     display: '',
   },
 };
-
+window.VelocityTransitionGroup = VelocityTransitionGroup;
 module.exports = VelocityTransitionGroup;
