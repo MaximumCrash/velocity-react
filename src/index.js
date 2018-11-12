@@ -16,4 +16,5 @@ module.exports = {
   VelocityComponent: require('./velocity-component'),
   VelocityTransitionGroup: require('./velocity-transition-group'),
   velocityHelpers: require('./velocity-helpers'),
+  Confetti: require('./confetti')
 };
