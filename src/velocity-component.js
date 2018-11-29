@@ -187,4 +187,6 @@ VelocityComponent.defaultProps = {
   interruptBehavior: 'stop',
 };
 
+window.VelocityComponent = VelocityComponent;
 module.exports = VelocityComponent;
+

@@ -75,6 +75,8 @@ function registerEffect(suffix, animation) {
   return key;
 }
 
+window.RegisterEffect = registerEffect; 
+
 module.exports = {
   registerEffect: registerEffect,
 };
